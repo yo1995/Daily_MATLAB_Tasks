@@ -64,7 +64,7 @@ moreover, you need to fork this sub-repo and set up properly the upstream before
 
 6. want to wipe the tattoo out? just delete the repo!
 
-![comp](/results/comparison0.jpg)
+![comp](results/comparison0.jpg)
 
 ## Keywords
 
