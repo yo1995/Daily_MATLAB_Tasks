@@ -1,6 +1,6 @@
 ![logo](logo.png)
 
-# GitHub canvas - draw the contribution calendar in your own way!
+# GitHub canvas - draw the contribution calendar in your way!
 
 ## Description
 
