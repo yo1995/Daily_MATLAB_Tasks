@@ -1,4 +1,4 @@
-![sample](/random_walk.png)
+![sample](/Draw_randomwalk/random_walk.png)
 
 ## Description
 
