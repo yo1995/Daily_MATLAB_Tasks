@@ -1,4 +1,4 @@
-![logo](/dsp.png)
+![logo](./dsp.png)
 
 ## Description
 
